@@ -17,7 +17,8 @@ It's very simple to use, you just have to pass three parameters.
 > **Third**, You'll need to informe a wordlist
 
 ## Example
-To execute follow the code bellow and don't forget to grab a cup of coffee.
+Execute the following code and don't forget to grab a cup of coffee.
+**Don't forget to change the host.**
 
     $ ./postCurl.sh admin@juice-sh.op http://localhost:3000/user/rest/login /usr/share/wordlist/rockyou.txt
 
