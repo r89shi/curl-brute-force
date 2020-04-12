@@ -10,7 +10,7 @@ After you clone the repository give permission to sh file.
 # Files
 
 The main file is called **postCurl.sh**.
-It's very simple to use, you have to pass three parameters.
+It's very simple to use, you just have to pass three parameters.
 
 > **First**, for juice shop app you'll use the email. e.g admin@juice-sh.op
 > **Second**, The host: http://localhost:3000/rest/user/login
